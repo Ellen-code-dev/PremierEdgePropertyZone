@@ -5,8 +5,8 @@
 Premier Edge Property Zone is a **real estate company in Kenya** dedicated to showcasing premium residential and commercial properties. This website allows users to explore available properties, learn about the company, and contact the agency directly.
 
 ## 🌐 Live Website
-[View Live Website](https://your-github-username.github.io/premier-edge/)  
-*(Replace with your GitHub Pages / Netlify / Vercel URL)*
+[View Live Website](hpremieredge.netlify.app)  
+
 
 ---
 
@@ -43,8 +43,4 @@ Premier Edge Property Zone is a **real estate company in Kenya** dedicated to sh
 
 ---
 
-## 🚀 Deployment Instructions
 
-1. Clone this repository:  
-```bash
-git clone https://github.com/your-github-username/premier-edge.git
